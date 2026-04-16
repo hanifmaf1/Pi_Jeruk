@@ -3,8 +3,6 @@ import cv2
 import numpy as np
 from PIL import Image
 from ultralytics import YOLO
-import tempfile
-import os
 import time
 from pathlib import Path
 
