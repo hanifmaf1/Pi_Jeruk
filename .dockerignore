@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.db
+.DS_Store
+Hanif_jeruk_CNN.ipynb
+README.md
+implementation_plan.md
+task.md
+walkthrough.md
+.gemini/
+.vscode/
+venv/
+env/
